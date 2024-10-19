@@ -74,7 +74,7 @@ Copy the configuration file `env.template` file to `.env`
 
 ```bash
 cd /opt/cozy
-cp env.example .env
+cp env.template .env
 ```
 
 and edit this `.env` file to configure your environment.
